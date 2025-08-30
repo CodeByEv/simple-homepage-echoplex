@@ -253,7 +253,7 @@ header {
 /*Footer */
 
 .footer-big {
-  background-image: url('/resources/footer_background_image.png');
+  background-image: url('https://raw.githubusercontent.com/CodeByEv/simple-homepage-echoplex/refs/heads/main/resources/footer_background_image.png');
   background-size: cover;
   height: 520px;
   width: 100vw;
@@ -341,4 +341,5 @@ header {
     gap: .8rem;
     padding: 1.5rem;
   }
+
 }
